@@ -32,8 +32,8 @@ This commands includes
 
 ## PROGRAM
 ```
-Devloped by: Ramya R
-Register Numebr: 212223230169
+Devloped by: BHARANI KUMAR J
+Register Numebr: 212224240024
 ```
 ## Ping command
 ## Client
