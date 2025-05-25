@@ -27,6 +27,9 @@ This commands includes
 <BR>
 
 ## Program
+DEVELOPED BY BHARANI KUMAR J
+REG NO:212224240024
+
 CLIENT
 ```
 import socket
@@ -53,7 +56,9 @@ while True:
     print(s.recv(1024).decode())
 ```
 ## Output
-![client](https://github.com/user-attachments/assets/617e2947-315e-44c7-8531-af07f3318b63)
+![image](https://github.com/user-attachments/assets/2fac26a0-1b24-4ec1-938b-18ac868f98b0)
+
+
 
 ![server](https://github.com/user-attachments/assets/e016ae78-a7b0-4cdf-bdf2-ba01591b64a5)
 ## Result
